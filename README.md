@@ -1,1 +1,3 @@
 # Early-Disease-Prediction---BA820
+
+The increasing prevalence of chronic diseases such as obesity, diabetes, and cardiovascular conditions has created a public health challenge. Understanding the demographic, dietary, and health-related factors influencing these conditions is crucial for policymakers, healthcare professionals, and researchers. The NHANES post pandemic dataset provides a unique opportunity to analyze these factors through a combination of interview data and physical examination results. Late-stage diagnoses of chronic or critical illnesses (e.g. Stroke and liver disease) lead to higher treatment costs, poorer patient outcomes, and increased mortality rates. Early detection can significantly improve patient prognosis and reduce healthcare costs.
